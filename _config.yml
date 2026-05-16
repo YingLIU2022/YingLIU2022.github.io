@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ying Liu"
-  pronouns         : "she/her"
-  bio              : "PhD Candidate in Economics, Singapore Management University"
+  pronouns         :
+  bio              : "Ph.D. Candidate in Econ,<br>School of Economics,<br>Singapore Management University"
   location         : "Singapore"
   employer         : "Singapore Management University"
   uri              :
