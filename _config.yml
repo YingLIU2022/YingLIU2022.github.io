@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Ying Liu"
   pronouns         :
-  bio              : "Ph.D. Candidate in Econ,<br>School of Economics,<br>Singapore Management University"
+  bio              : "Ph.D. Candidate in Economics,<br>School of Economics,<br>Singapore Management University"
   location         : "Singapore"
   employer         : "Singapore Management University"
   uri              :
-  email            : "ying.liu.2022@phdecons.smu.edu.sg"
+  # email            : "ying.liu.2022@phdecons.smu.edu.sg"
 
 
   # Academic websites
