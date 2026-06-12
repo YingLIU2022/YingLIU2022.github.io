@@ -149,8 +149,10 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 70%;
     height: auto;
+    max-width: 180px;
+    margin: 0 auto;
   }
 
   img {
