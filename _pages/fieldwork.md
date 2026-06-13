@@ -2,7 +2,7 @@
 layout: archive
 title: "Field Work"
 permalink: /fieldwork/
-author_profile: true
+author_profile: false
 ---
 
 A selection of photos from my field research on implicit teacher stereotypes toward left-behind children in rural China.
