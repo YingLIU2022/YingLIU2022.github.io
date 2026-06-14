@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ying Liu"
+title                    : "Ying LIU (刘颖)"
 title_separator          : "-"
-name                     : &name "Ying Liu"
+name                     : &name "Ying LIU"
 description              : &description "Personal website of Ying Liu, PhD Candidate in Economics at Singapore Management University"
 url                      : https://yingliu2022.github.io
 baseurl                  : ""
@@ -23,7 +23,7 @@ repository               : "YingLIU2022/YingLIU2022.github.io"
 author:
   # Biographic information
   avatar           : "cv.jpg"
-  name             : "Ying Liu"
+  name             : "Ying LIU"
   pronouns         :
   bio              : "Ph.D. Candidate in Economics,<br>School of Economics,<br>Singapore Management University"
   location         : "Singapore"
