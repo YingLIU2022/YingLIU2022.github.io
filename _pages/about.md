@@ -9,7 +9,7 @@ redirect_from:
 
 ### Hi!
 
-My name is Ying Liu. I am currently a fourth-year Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/).
+My name is Ying LIU. I am currently a fourth-year Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/).
 
 My research interests are in applied microeconomics, with a focus on the economics of the health and education. My current work examines how public policies and social environments shape outcomes for children.
 
